@@ -13,7 +13,7 @@ h3 {
 h2{
     text-align: center;
 }
-ul{
+ul, li, p{
     text-align: center; 
 }
 .center {
